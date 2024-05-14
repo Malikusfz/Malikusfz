@@ -20,4 +20,4 @@ I'm a software developer with a keen interest in frontend development using Reac
 
 ## Contact
 - LinkedIn: [Malikus Syafaadi Nurfaza](https://www.linkedin.com/in/malikussyafaadinurfaza/)
-- Email: [malikussyafaadi@example.com](mailto:malikussyafaadi@example.com)
+- Email: [malikussyafaadi@example.com](mailto:malikussyafaadinurfaza@gmail.com)
