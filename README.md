@@ -4,9 +4,8 @@
 I'm a software developer with a keen interest in frontend development using React and Flutter. I'm also passionate about machine learning and currently learning TensorFlow.
 
 ## Skills
-- 💻 Programming Languages: JavaScript, Dart, Python
+- 💻 Programming Languages: JavaScript, Python
 - 🌐 Web Technologies: React, HTML, CSS
-- 📱 Mobile App Development: Flutter
 - 📊 Machine Learning: TensorFlow
 
 ## Projects
