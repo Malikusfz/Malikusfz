@@ -26,7 +26,6 @@ I'm a software developer with a keen interest in frontend development using Reac
 - [webgis-FE](https://github.com/fathaaa/webgis-FE): WebGIS front-end project (CSS)
 - [Animal Classification](https://github.com/GirasArya/Animal-Classification): AI course final project (Python)
 - [Aboutme](https://github.com/Malikusfz/Aboutme): Personal portfolio website (CSS)
-- [PCD](https://github.com/Malikusfz/PCD): Image processing project (C++)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikusfz&layout=compact&theme=radical)
