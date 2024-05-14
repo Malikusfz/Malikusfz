@@ -1,12 +1,17 @@
 # Hi there, I'm Malikus Syafaadi Nurfaza 👋
 
 ## About Me
-I'm a software developer with a keen interest in frontend development using React and Flutter. I'm also passionate about machine learning and currently learning TensorFlow.
+I'm a software developer with a keen interest in frontend development using React. I'm also passionate about machine learning and currently learning TensorFlow.
 
 ## Skills
-- 💻 Programming Languages: JavaScript, Python
-- 🌐 Web Technologies: React, HTML, CSS
-- 📊 Machine Learning: TensorFlow
+- 💻 Programming Languages: C++, JavaScript, Python, HTML, CSS
+- 🌐 Web Technologies: HTML, CSS, JavaScript, React, Node.js
+- 📱 Mobile App Development: (Upcoming) Flutter
+- 🗃️ Data Structures: C++
+- 📊 Data Visualization: JavaScript
+- 🛠 Tools and Platforms: Git, GitHub, npm, yarn, Vite
+- 🔐 Security: Basic understanding of web security principles
+- 🤖 Machine Learning: TensorFlow, Python
 
 ## Projects
 ### Pinned Projects
@@ -19,4 +24,4 @@ I'm a software developer with a keen interest in frontend development using Reac
 
 ## Contact
 - LinkedIn: [Malikus Syafaadi Nurfaza](https://www.linkedin.com/in/malikussyafaadinurfaza/)
-- Email: [malikussyafaadi@example.com](mailto:malikussyafaadinurfaza@gmail.com)
+- Email: [malikussyafaadi@example.com](mailto:malikussyafaadi@example.com)
