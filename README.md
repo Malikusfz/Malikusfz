@@ -32,7 +32,7 @@ I'm a software developer with a keen interest in frontend development using Reac
 
 ## Contact
 - LinkedIn: [Malikus Syafaadi Nurfaza](https://www.linkedin.com/in/malikussyafaadinurfaza/)
-- Email: [malikussyafaadi@example.com](mailto:malikussyafaadi@example.com)
+- Email: [malikussyafaadinurfaza@gmail.com](mailto:malikussyafaadinurfaza@gmail.com)
 
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malikusfz&theme=radical)
