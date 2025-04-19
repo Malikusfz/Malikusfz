@@ -7,7 +7,7 @@
 
 ## About Me
 
-I’m a Data Scientist at GoTo Group and a fourth‑year Computer Science student at IPB University. I specialize in building end‑to‑end data science and machine learning solutions, with a particular passion for natural language processing (NLP) and text‑to‑speech (TTS). I’ve worked on statistical modeling, deep learning, and scalable data pipelines, and I enjoy turning data into actionable insights.
+I’m a Data Scientis Intern at GoTo Group and a fourth‑year Computer Science student at IPB University. I specialize in building end‑to‑end data science and machine learning solutions, with a particular passion for natural language processing (NLP) and text‑to‑speech (TTS). I’ve worked on statistical modeling, deep learning, and scalable data pipelines, and I enjoy turning data into actionable insights.
 
 ## Skills
 
